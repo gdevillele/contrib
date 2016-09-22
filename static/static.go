@@ -6,7 +6,7 @@ import (
 	"path"
 	"strings"
 
-	"github.com/gin-gonic/gin"
+	"github.com/gdevillele/gin"
 )
 
 type ServeFileSystem interface {
